@@ -4,7 +4,7 @@ Hardware Wallet Integration Documentation for Cosmos Networks
 
 犀铠™是基于金融级可信软硬件的“交钥匙”自托管解决方案，专为数字资产服务商量身定制，确保数字资产从发行、保管到动用全生命周期的端到端安全。与此同时，满足监管方对服务商的资产托管合规要求。[【了解更多】](https://www.ibestchain.cn/service/36541)
 
-一、 支持平台
+## 一、 支持平台
 
 | 链              | 代币 | 操作                                                  |
 | --------------- | ---- | ----------------------------------------------------- |
@@ -16,7 +16,7 @@ Hardware Wallet Integration Documentation for Cosmos Networks
 
  
 
-二、 支持操作
+## 二、 支持操作
 
 \- Token 模块：发行（Issue）、增发（Mint）、销毁（Burn）
 
@@ -26,7 +26,7 @@ Hardware Wallet Integration Documentation for Cosmos Networks
 
  
 
-三、 API接口
+## 三、 API接口
 
 1、创建地址（与原版本相关）：
 
