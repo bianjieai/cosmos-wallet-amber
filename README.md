@@ -1,4 +1,4 @@
-# cosmos-wallet-amber
+# cosmos-wallet-ibest
 
 Hardware Wallet Integration Documentation for Cosmos Networks
 
